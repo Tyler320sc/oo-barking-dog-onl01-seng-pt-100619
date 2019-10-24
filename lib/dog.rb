@@ -7,9 +7,6 @@ class Dog
     this_dogs_name
   end 
   
-  fido = Dog.new 
-  fido.name = "Fido"
-  
   def bark
     puts "woof!"
   end 
