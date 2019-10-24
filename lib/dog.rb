@@ -7,5 +7,6 @@ class Dog
     this_dogs_name
   end 
   
-  "Fido" = Dog.new
+  fido = DOg.new 
+  fido.name = "Fido"
 end 
